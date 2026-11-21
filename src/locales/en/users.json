@@ -1,7 +1,0 @@
-{
-  "deleteSuccess": "Post with ID {id} deleted successfully",
-  "idNotFound": "User with ID {id} not found",
-  "emailNotFound": "User with Email {email} not found",
-  "passwordNotMatch": "Password not match",
-  "duplicateEmail": "Email {email} already exists"
-}
